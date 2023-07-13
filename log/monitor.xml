@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notification xmlns="urn:ietf:params:xml:ns:netconf:notification:1.0"><eventTime>2023-07-13T07:15:54.898527+00:00</eventTime>
+<i2nsf-event xmlns='urn:ietf:params:xml:ns:yang:ietf-i2nsf-monitoring-interface'>
+  <i2nsf-traffic-flows>
+    <interface-name>ens3</interface-name>
+    <interface-type>ingress</interface-type>
+    <src-ip>115.145.178.177</src-ip>
+    <dst-ip>10.0.0.58</dst-ip>
+    <protocol>tcp</protocol>
+    <src-port>466</src-port>
+    <dst-port>80</dst-port>
+    <measurement-time>0</measurement-time>
+    <arrival-rate>757</arrival-rate>
+    <arrival-throughput>65593</arrival-throughput>
+  </i2nsf-traffic-flows>
+</i2nsf-event>
+</notification>
