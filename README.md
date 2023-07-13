@@ -62,8 +62,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-Developer's Management System is a component of the I2NSF framework that caters to the needs of developers or vendors responsible for creating and managing the NSFs. This system provides a platform for developers to register and advertise their NSFs' capabilities. It allows developers to define and publish the capabilities,  configuration requirements, and metadata associated with their NSFs.
+I2NSF Analyzer is a resource dedicated to collecting, processing, and analyzing security-related data and events. It retrieves information from NSFs and other network monitoring tools. The Analyzer can perform various tasks such as traffic analysis, anomaly detection, correlation of security events, and generating reports or alerts. It provides valuable insights and intelligence to the I2NSF User and Security Controller, helping them assess the effectiveness of security policies, detect potential threats, and make informed decisions regarding network security management.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -121,7 +120,7 @@ Note: Make sure to update the mysql database to actual data of NSFs
 
 Patrick Lingga - https://patrick8link.github.io/
 
-Project Link: [https://github.com/patrick8link/i2nsf-dms](https://github.com/patrick8link/i2nsf-dms)
+Project Link: [https://github.com/patrick8link/i2nsf-analyzer](https://github.com/patrick8link/i2nsf-analyzer)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
