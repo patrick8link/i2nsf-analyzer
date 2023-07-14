@@ -106,7 +106,7 @@ Note: Make sure to update the mysql database to actual data of NSFs
 
 1. Run the DMS server with confd
    ```sh
-   cd ~/analyzer-v2
+   cd ~/i2nsf-analyzer
    python3 analysis.py
    ```
 
